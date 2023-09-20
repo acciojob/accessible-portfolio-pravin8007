@@ -3,16 +3,3 @@
 img{
 	width : 300px;
 }
-ul{
-	list-style-type : circle ;
-}
-nav{
-	width : 100% ;
-	background-color : black;
-	border-radius : 10px;
-} 
- nav a{
-	color : white ;
-	padding-left : 50px;
-	padding-top : 20px ;
-}
